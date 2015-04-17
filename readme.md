@@ -1,13 +1,7 @@
-## Anchor CMS Themes
+# Dark-bar
 
-This Repo is solely for the development of Themes for the Open-Source Blogging CMS: Anchor.
+This is a dark-bar theme, adapted from the default theme for those who prefer a darker blog. By [Craig Childs, Visual Idiot](http://bertdasquirt.com).
 
-This repo contains the default and boilerplate themes, this should provide you with enough aid to create your own themes.
+## License
 
-Please use them as a template, but make sure that you duplicate them and do not overwrite them.
-
-If you unsure about how to do something, [check out the docs!](http://anchorcms.com/docs)
-
-You can also view a range of themes at [Anchor Themes](http://anchorthemes.com)
-
-Happy theming!
+This software is released under the [WTFPL License](http://sam.zoy.org/wtfpl/COPYING).
